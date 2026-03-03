@@ -1,5 +1,10 @@
 # Wahlomat.local
 
+![GitHub Release](https://img.shields.io/github/v/release/thomaskujawa/passau-kandidatencheck) ![GitHub License](https://img.shields.io/github/license/thomaskujawa/passau-kandidatencheck)
+[<img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/FTP-Deploy-Action)
+
+
+
 **Wahlomat.local** ist ein lokal installiertes Webprojekt, das als interaktives Tool zur politischen Bildung dient.  
 Es ermöglicht die Simulation von Wahl‑O‑Mat‑ähnlichen Entscheidungsfragen, um politische Positionen zu erkunden — komplett offline über XAMPP.
 
